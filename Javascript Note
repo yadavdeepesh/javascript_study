@@ -13,3 +13,16 @@ var x ={first:"json",last:"roy"}; // Object
 var x = null; // Null
  
 var x; // undefined
+
+
+// different type of Arithmetic operators
+
+operator             Descriptipn
++                    Addition
+-                    Subtraction
+*                    Multiplication
+**                   Exponentiation
+/                    Division
+%                    Modulus(Remainder)
+++                   Increment
+--                   Decrement
