@@ -1,6 +1,6 @@
-document.write("<u><b>External javascipt code<b></u> ");
+document.write("<u><b>External javascript code<b></u> ");
 
-// sibgle line comment
+// single line comment
 /*
 this is a multi line Comment
 
