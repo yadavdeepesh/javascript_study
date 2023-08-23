@@ -38,3 +38,16 @@ operator             Example           Same As
 /=                   x /= y            x = x / y    
 %=                   x %= y            x = x % y                 
 **=                  x **= y           x = x ** y  
+
+
+// different type of Comparison operators
+
+operator             Descriptipn
+==                    equal to
+===                   equal value and equal type
+!=                    not equal
+!==                   not equal value or not equal type
+>                     greater than
+<                     less than
+>=                    greater than or equal to
+<=                    less than or equal to
