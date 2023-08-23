@@ -1,0 +1,15 @@
+// data types in JavaScript
+
+var x = "hello world"; // String 
+
+var x = 24; // Number
+
+var x = true; // Boolean
+
+var x = ["js","ajax","php","python"]; // Array
+
+var x ={first:"json",last:"roy"}; // Object
+
+var x = null; // Null
+ 
+var x; // undefined
