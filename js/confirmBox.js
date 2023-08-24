@@ -1,3 +1,4 @@
+// confirm box program
 var x = confirm("do you like beautiful girls");
 
 console.log(x);
