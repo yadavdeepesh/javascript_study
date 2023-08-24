@@ -40,3 +40,19 @@ else{
     console.log("you are not valid person ");
     document.write("you are not valid person ");
 }
+
+
+// if else statement 
+
+var name = "Deepesh Yadav";
+
+if(name == "Deepesh Yadav"){
+    document.write("<br> If <br>");
+    document.write(name);
+    console.log("My name is "+name);
+}
+else{
+    document.write("<br> Else <br>");
+    document.write(name);
+    console.log("My name is "+name); 
+}
