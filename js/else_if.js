@@ -1,6 +1,6 @@
 // write program for student percentage
 
-var per = 32;
+var per = prompt("enter the percentage::");
 
 if(per >= 80 && per <= 100){
     document.write("You are in Merit");
