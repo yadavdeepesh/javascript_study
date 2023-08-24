@@ -1,1 +1,3 @@
-console.log(prompt("Enter your name"));
+var res =  prompt("Enter your name");
+
+console.log(res);
