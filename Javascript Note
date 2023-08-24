@@ -51,3 +51,31 @@ operator             Descriptipn
 <                     less than
 >=                    greater than or equal to
 <=                    less than or equal to
+
+
+// if else
+
+   if (today is monday){
+    true
+   }
+   else{
+    false
+   }
+
+   // what are logical operators ?
+
+   if condition 1  -> false  -> out
+      condition 2  -> false 
+         !
+         true
+         !
+         statement
+
+different type  of  logical operators:
+
+operator      name            Descriptipn
+&&            Logical and     Boths condition true output will be true either false 
+||            Logical OR      One condition true  output will be true either if all condition is false
+!             Logical NOT     If condition true ,that's output is false and If condition false that's output is true 
+                              (provide the reverse result)
+    
