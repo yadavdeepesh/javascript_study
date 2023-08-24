@@ -79,3 +79,23 @@ operator      name            Descriptipn
 !             Logical NOT     If condition true ,that's output is false and If condition false that's output is true 
                               (provide the reverse result)
     
+
+What is ternary Operator ?
+
+Conditions -> False -> statement 2
+   |
+  true
+   |
+  statement
+
+  Example
+
+  var x = 15;
+  var z;
+
+  (x>10) ? z = true : z = false ;
+
+  console.log(z);
+
+  
+
