@@ -1,6 +1,3 @@
+var res =  prompt("Enter your name");
 
-
-var res =prompt("Enter your name");
-
-alert(res);
-
+console.log(res);
