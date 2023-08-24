@@ -129,4 +129,9 @@ promt box return the enter value, that is value submited by the user.
   ok => return => enter value 
 cancel => return => null
 
+// Function functionName(){ // Function Definition
+   statement
+}
+
+functionName();
 
