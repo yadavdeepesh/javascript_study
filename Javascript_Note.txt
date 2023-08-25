@@ -143,10 +143,25 @@ functionName();
 functionName(argument1,argument2);
 
 // Example
+
+// function return value
+
 function sum(a,b){
    return (a+b);
 }
 $res = sum(2,34);
 console.log(res);
 
+
+// retrun function 
+
+
+function sum (a,b){
+    var c = a+b;
+    return c;
+}
+
+res = sum(22,22);
+
+console.log("sum of two number "+res);
 
