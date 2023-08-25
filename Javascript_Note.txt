@@ -18,7 +18,7 @@ var x; // undefined
 // different type of Arithmetic operators
 
 operator             Descriptipn
-+                    Addition
++                    Aliition
 -                    Subtraction
 *                    Multiplication
 **                   Exponentiation
@@ -187,5 +187,33 @@ printValue(); // 10
 
 document.write(b); // error b is not defined
 
+// JavaScript Basic Events
+
+* Click (onclick)
+* Double Click (ondblclick)
+* Right Click (oncontentmenu)   
+* Mouse Hover (onmouseenter)     
+* Mouse Out   (onmouseout)
+* Mouse Down  (onmousedown)    
+* Mouse Up    (onmouseup)
+* Key Press   (onkeypress)
+* Key Up      (onkeyup)
+* Load        (onload)
+* Unload      (onunload)
+* Resize      (onresize)
+* Scroll      (onscroll)
+
+Example
+
+// create the function 
+
+function helloWorld(){
+   alert("Hello ");
+
+}
+// create button to triggered the Events
+
+<button onClick ="helloWorld()" > Click Me </button>
+<p ondblclick = "helloWorld()" > My name is deepesh yadav </p>
 
 
