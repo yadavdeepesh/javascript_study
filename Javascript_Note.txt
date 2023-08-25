@@ -135,3 +135,18 @@ cancel => return => null
 
 functionName();
 
+// parameterized function
+//syntax 
+// Function functionName(argument1, argument2){ // Function Definition
+   statement
+}
+functionName(argument1,argument2);
+
+// Example
+function sum(a,b){
+   return (a+b);
+}
+$res = sum(2,34);
+console.log(res);
+
+
