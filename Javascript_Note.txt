@@ -284,3 +284,19 @@ for (let i = 1; i < 5; i++) {
   document.write("<br>");
   
 }
+
+NOTE :: this task is use to revise your previous tasks
+
+// write a program of even and odd.
+// write a program of even and odd between given range
+
+ // Nested For Loops in JavaScript
+
+Nested for loops in JavaScript means one for loop inside another for loop. In other words, a for loop placed inside another for loop is called nested for loops.
+
+for (let i = 1; i < 100; i = i + 10) {
+   for (let j = i; j < i + 10; j = j + 10) {
+     document.write(b +" ");
+   }
+   document.write("<br>);
+}
