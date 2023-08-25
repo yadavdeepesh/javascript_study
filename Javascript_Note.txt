@@ -165,3 +165,27 @@ res = sum(22,22);
 
 console.log("sum of two number "+res);
 
+// Local and Global variable in JavaScript
+
+Local variable => With in the Block and function
+
+Global variable => Access outside and inside function and block 
+                  
+example:
+
+var a = 10 ; // global variable
+
+function printValue(){
+   var b =20 ; // local variable
+   document.write(b);// 20 
+
+   document.write(a); // 10 
+}
+
+// call function 
+printValue(); // 10
+
+document.write(b); // error b is not defined
+
+
+
