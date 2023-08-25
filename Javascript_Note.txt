@@ -257,3 +257,30 @@ do {
         document.write("i = "+i);
         document.write("<br>");
     }
+
+//  continue And break there boths are using with loops.
+
+continue => Loop through a block of code, but skip the value of i = 3 :
+
+example of continue statement:
+
+for (let i = 1; i < 5; i++) {
+  if (i == 3){
+     continue;
+  }
+   document.write(i);
+  document.write("<br>");
+}
+
+break => Break out of a loop when i is 3:
+
+example of break statement:
+
+for (let i = 1; i < 5; i++) {
+  if (i == 3){
+   break;
+  } 
+  document.write(i);
+  document.write("<br>");
+  
+}
