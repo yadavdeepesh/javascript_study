@@ -326,3 +326,41 @@ for (let i = 1; i < 100; i = i + 10) {
 321
 21
 1
+
+// Array in JavaScript
+
+JavaScript array is an object that represents a collection of similar type of elements.
+
+syntax and example:
+
+index       0  1  2  3  4
+var arr = [12,23,45,56,76];
+
+document.write(arr[2]);
+// output => 45
+
+document.write(arr[5]);
+// output => undefined 
+// that is reason index is not present the given array
+
+// using loop to print the value of array elements
+
+// Before print the array element , to findout the length of given array , 
+to use predefined function
+
+console.log(arrayname.length); // provide the length of array 5
+
+for(var a = 0 ; a < arr.length ; i++ ){
+   document.write(arr[i]);
+   document.write("<br>");
+}
+
+//output of Above code 
+
+12
+23
+45
+56
+76
+
+//that is output of array program..
