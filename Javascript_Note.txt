@@ -392,3 +392,20 @@ for (i =0 ; i < 3 ; i++){
 }
 document.write("</ul>");
 
+// modified the array element
+
+index       0  1  2  3  4
+var arr = [12,23,45,56,76];
+
+arr[1] = 25;
+
+for(var a = 0 ; a < arr.length ; i++ ){
+   document.write(arr[i]);
+   document.write("<br>");
+}
+
+// delete the array element
+
+delete arr[1];
+
+// this function only delete the value . do not delete the index.
