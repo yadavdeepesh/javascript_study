@@ -364,3 +364,31 @@ for(var a = 0 ; a < arr.length ; i++ ){
 76
 
 //that is output of array program..
+
+// Anorther way to create Array :: 
+example 
+
+var a = new Array(10,20,30,40);
+
+var b = new Array();
+b[0] = 12;
+b[1] = "harry";
+b[2] = true;
+
+document.write("<ul>");
+for (i =0 ; i < 3 ; i++){
+   document.write("<li>" + b[i] + "</li>");
+}
+document.write("</ul>");
+
+var c = new Array(3);
+for (g =0 ; g < 3 ; g++){
+   b[g] = prompt("Enter the number");
+}
+
+document.write("<ul>");
+for (i =0 ; i < 3 ; i++){
+   document.write("<li>" + c[i] + "</li>");
+}
+document.write("</ul>");
+
