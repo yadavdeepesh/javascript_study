@@ -459,3 +459,33 @@ arr.pop();
 push method is add the new value last.
 
 arr.push("Deepesh");
+
+shift() method delete the first value of array.
+unshift() method add the value in first option on array.
+
+concat() method is use to join two string ,array etc
+
+join() method is use all value array to join in single string
+
+slice() method is use to retrieve the multiple value given array (to get some value in existing array)
+
+splice() method is use add and delete the value to given array
+
+isArray() method is use to check the given value is array or not.
+If given value is array then return true
+If given value is not an array then return false
+var numArr = [66,98,22,23,20,49];
+flag =Array.isArray(numArr);
+flag = true;
+flag return true reason given objcet is array
+
+var name ="Deepesh";
+flag =Array.isArray(name);
+flag = true;
+flag return flase reason given objcet is string not array
+
+indexOf("element value" ,"number of index you skip") js method 
+search the element in the starting of  array
+
+lastIndexOf("element value" ,"number of index you skip") js method
+search the element in the ending of array
