@@ -18,3 +18,9 @@ document.write("<br> Index Of Search  "+indexNumber);
 var indexNumber1 = arrSearch.lastIndexOf("dk",3);
 
 document.write("<br> Index Of Search  "+indexNumber1);
+// 
+flag = arrSearch.includes("dk");
+document.write("<br> flag = "+flag+"<br>");
+
+flag = arrSearch.includes("dkggg");
+document.write("<br> flag = "+flag+"<br>");

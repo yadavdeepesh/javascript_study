@@ -489,3 +489,7 @@ search the element in the starting of  array
 
 lastIndexOf("element value" ,"number of index you skip") js method
 search the element in the ending of array
+
+// include () method 
+
+ includes(search term ) => retrun true if search term is present then retrun false search term not present
