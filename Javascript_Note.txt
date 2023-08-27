@@ -493,3 +493,47 @@ search the element in the ending of array
 // include () method 
 
  includes(search term ) => retrun true if search term is present then retrun false search term not present
+
+// some()   method 
+
+this method use with in array 
+some method retrun if one of conditions is true either false
+
+var ages = [12,18,20,15];
+document.write(arr+"<br>");
+
+var res = arr.some(checkAdult);
+document.write(res);
+function checkAdult(age){
+   retrun age>=18;
+}
+
+// every()   method 
+
+this method use with in array 
+every method retrun if all  of conditions is true either false
+
+var ages = [12,18,20,15];
+document.write(arr+"<br>");
+
+var res = arr.every(checkAdult);
+document.write(res);
+
+function checkAdult(age){
+   retrun age>=18;
+}
+
+
+find() method returns the  value of the first element in an array that pass a test
+
+findIndex() method returns the index of the first element in an array that pass a test
+
+filter() method creates an array filled with all array elements that pass the test
+
+toString() method  converts an array into string and return the result
+
+valueOf() method print the array values
+
+fill() method fills all the elements in an array with a static value
+
+forEach() method some as loop
