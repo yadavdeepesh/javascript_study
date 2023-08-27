@@ -409,3 +409,53 @@ for(var a = 0 ; a < arr.length ; i++ ){
 delete arr[1];
 
 // this function only delete the value . do not delete the index.
+
+
+// Array Methods
+
+JavaScript Array Methods
+
+sort() 
+reverse()
+pop()
+push()
+shift()
+unshift()
+concat()
+join()
+slice()
+splice()
+isArray()
+indexOf()
+lastIndexOf()
+entries()
+every()
+filter()
+find()
+findIndex()
+includes()
+some()
+forEach()
+toString()
+valueOf()
+fill()
+
+example
+sort:
+
+var arr = ["ravi ","shubham","Ashish" , "Ramesh"];
+var numArr = [66,98,22,23,20,49];
+
+arr.sort();
+numArr.sort();
+
+arr.reverse();
+numArr.reverse();
+
+pop() method is delete the last value.
+
+arr.pop();
+
+push method is add the new value last.
+
+arr.push("Deepesh");
