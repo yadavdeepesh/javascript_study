@@ -580,3 +580,75 @@ document.write(obj.fullname());// call fullname
 document.write(obj.salary()); // call the salary function
 document.write(obj.fullName());// call the fullname function 
 console.log(obj.living);
+
+// create object to another way
+
+var person = new Object();
+person.name = "Deepesh";
+person.age = 25;
+person.profession = "Software Engineer";
+
+console.log(person);
+document.write(person + "<br>");
+document.write(person.name + "<br>");
+document.write(person.age + "<br>");
+document.write(person.profession + "<br>");
+// another way to get the values of objects
+
+document.write(person['name'] + "<br>");
+document.write(person['age'] + "<br>");
+document.write(person['profession'] + "<br>");
+
+// Array of objects
+
+var student = [
+   {Name : "Deepesh" , age : 24},
+   {Name : "Ajay" , age : 25},
+   {Name : "Aashish" , age : 26},
+]
+
+console.log(student);
+
+for(var i = 0 ; i < student.length ; i++){
+    document.write(student[i].Name + "  " + student[i].age + " <br>");
+}
+
+
+// Constant variable with Array and Object 
+
+const a= [12,23,34];
+
+//a=[
+  // 44,55,66;// this is not possible ,it is throughts the error
+//]
+
+// but to change the const array values by using this syntax
+
+a[0] = 30;
+a[1] = 99;
+
+console.log(a);
+
+// Constant variable with object
+
+const obj = {
+   name : "Deepesh",
+   age : 24
+}
+
+//obj = {
+//   city : "muzaffarnagar" // this is not possible ,it is throughts the error
+//}
+
+// but that is possible to change the value of const object
+
+obj.name = "eshu ";
+obj.age = 22;
+
+console.log(obj)
+
+// for in loop (that is use with object)
+
+
+
+
