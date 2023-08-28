@@ -579,3 +579,4 @@ document.write(obj.salary());// access function
 document.write(obj.fullname());// call fullname 
 document.write(obj.salary()); // call the salary function
 document.write(obj.fullName());// call the fullname function 
+console.log(obj.living);
