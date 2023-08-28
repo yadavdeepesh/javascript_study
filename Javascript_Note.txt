@@ -537,3 +537,45 @@ valueOf() method print the array values
 fill() method fills all the elements in an array with a static value
 
 forEach() method some as loop
+
+JS Object 
+
+A javaScript object is an entity having state and behavior (properties and method). For example: car, pen, bike, chair, glass, keyboard, monitor etc.
+
+JavaScript is an object-based language. Everything is an object in JavaScript.
+
+JavaScript is template based not class based. Here, we don't create class to get the object. But, we direct create objects.
+
+// create object in js
+
+var obj = {
+   fname : "deepesh",
+   lname : "yadav",
+   age : 24,
+   email : "dk@gmai.com",
+   favColor :["red" ,"blue" ,"green"],
+   living:{
+   city : "muzaffarnagar",
+   country : "india"
+   },
+   salary : function(){
+      retrun 25000;
+   },
+   fullName : function(){
+      retrun this.fname+" "+this.lname;
+   },
+
+  }
+
+console.log(obj);
+document.write(obj.fname);// access fname
+document.write("<br>");
+document.write(obj.lname); // access lname 
+document.write("<br>");
+document.write(obj.email+"<br>");
+document.write(obj.favColor);// print array element
+document.write(obj.living.city);// access the object values
+document.write(obj.salary());// access function 
+document.write(obj.fullname());// call fullname 
+document.write(obj.salary()); // call the salary function
+document.write(obj.fullName());// call the fullname function 

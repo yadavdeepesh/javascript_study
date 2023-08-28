@@ -5,7 +5,7 @@ var res = arr.forEach(function (values , index){
 })
 
 document.write("<br> Another way to use loop <br>");
-
+caches
 var res = arr.forEach(loop);
 
 function loop(values , index){
