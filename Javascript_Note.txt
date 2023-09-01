@@ -651,4 +651,48 @@ console.log(obj)
 
 
 
+// Array - map() function :
+
+var a = [1,2,3,4,5];
+
+[10,20,30,40,50]
+
+a.map()
+
+
+syntax
+
+var a = [1,2,3,4,5];
+
+a.map(function(){
+   statement
+})
+
+// javaScript String Methods
+
+length // property => find length of string
+toLowerCase() => covert string to toLowerCase retrun true and false
+toUpperCase() => convert string to toUpperCase retrun true and false
+includes() => search the patterns string retrun true and false
+startsWith() => search the string with starting retrun true and false
+endsWith() => search the string with ending retrun true and false
+search() => search the string and return the postion , if not match return -1 
+match() => search the string and return convert string into array 
+indexOf() =>search the given string and return occurance first index postion 
+lastIndexOf() => search the given string and return occurance last index postion 
+replace() => replace the given word to another word
+trim() => trim the extra space 
+charAt() => return character postion
+charCodeAt()=>  return asci code 
+fromCharCode() =>  take the  asci code  then retrun the value
+concat() => concat the two or more string
+split() => split the given string and return array 
+repeat() => repeat the string for multiple times
+slice() => make the slice of given string 
+substr() => make the slice og given string 
+subString() => make the slice og given string 
+toString() => convert any type objcet to string 
+valueOf() => for print the given string 
+
+
 

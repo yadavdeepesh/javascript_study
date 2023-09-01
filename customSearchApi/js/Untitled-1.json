@@ -1,0 +1,693 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - cricket today Aisacup match",
+                "totalResults": "78500000",
+                "searchTerms": "cricket today Aisacup match",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "84ccc7c65623b462e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - cricket today Aisacup match",
+                "totalResults": "78500000",
+                "searchTerms": "cricket today Aisacup match",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "84ccc7c65623b462e"
+            }
+        ]
+    },
+    "context": {
+        "title": "google-search"
+    },
+    "searchInformation": {
+        "searchTime": 0.569471,
+        "formattedSearchTime": "0.57",
+        "totalResults": "78500000",
+        "formattedTotalResults": "78,500,000"
+    },
+    "spelling": {
+        "correctedQuery": "cricket today Asia Cup match",
+        "htmlCorrectedQuery": "cricket today <b><i>Asia Cup</i></b> match"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Asia Cup, 2023 schedule, live scores and results | Cricbuzz.com",
+            "htmlTitle": "<b>Asia Cup</b>, 2023 schedule, live scores and results | Cricbuzz.com",
+            "link": "https://www.cricbuzz.com/cricket-series/6906/asia-cup-2023/matches",
+            "displayLink": "www.cricbuzz.com",
+            "snippet": "Asia Cup, 2023 Schedule, Match Timings, Venue Details, Upcoming Cricket Matches and Recent Results on Cricbuzz.com.",
+            "htmlSnippet": "<b>Asia Cup</b>, 2023 Schedule, <b>Match</b> Timings, Venue Details, Upcoming <b>Cricket Matches</b> and Recent Results on Cricbuzz.com.",
+            "cacheId": "5zi3e6Y5Dl4J",
+            "formattedUrl": "https://www.cricbuzz.com/cricket-series/6906/asia-cup-2023/matches",
+            "htmlFormattedUrl": "https://www.cricbuzz.com/<b>cricket</b>-series/6906/asia-cup-2023/<b>match</b>es",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "fb:app_id": "30119633160",
+                        "twitter:title": "Asia Cup, 2023 schedule, live scores and results",
+                        "og:site_name": "Cricbuzz",
+                        "twitter:site": "@cricbuzz",
+                        "twitter:domain": "cricbuzz.com",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:email": "webmaster@cricbuzz.com",
+                        "twitter:url": "www.cricbuzz.com/cricket-series/6906/asia-cup-2023/matches",
+                        "twitter:description": "Asia Cup, 2023 Schedule, Match Timings, Venue Details, Upcoming Cricket Matches and Recent Results on Cricbuzz.com",
+                        "og:title": "Asia Cup, 2023 schedule, live scores and results",
+                        "og:url": "www.cricbuzz.com/cricket-series/6906/asia-cup-2023/matches",
+                        "og:description": "Asia Cup, 2023 Schedule, Match Timings, Venue Details, Upcoming Cricket Matches and Recent Results on Cricbuzz.com"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Asia Cup 2023 schedule announced",
+            "htmlTitle": "<b>Asia Cup</b> 2023 schedule announced",
+            "link": "https://www.icc-cricket.com/news/3597048",
+            "displayLink": "www.icc-cricket.com",
+            "snippet": "Jul 19, 2023 ... The tournament will follow a hybrid model with Pakistan hosting four matches across two venues and Sri Lanka hosting the remaining games. The ...",
+            "htmlSnippet": "Jul 19, 2023 <b>...</b> The tournament will follow a hybrid model with Pakistan hosting four <b>matches</b> across two venues and Sri Lanka hosting the remaining <b>games</b>. The&nbsp;...",
+            "cacheId": "KVGNXzTZxc4J",
+            "formattedUrl": "https://www.icc-cricket.com/news/3597048",
+            "htmlFormattedUrl": "https://www.icc-<b>cricket</b>.com/news/3597048",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGakpt564gzVFVpu6UDAgkf99m67sxbCykuZPt4dZYOUqwFvijZdlRATN_",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://resources.pulse.icc-cricket.com/ICC/photo/2023/07/19/3aa7454f-4769-41e8-bc6b-3959375560a7/GettyImages-1244170369.jpg",
+                        "apple-itunes-app": "app-id=956440606",
+                        "twitter:title": "Asia Cup 2023 schedule announced",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@icc",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The schedule for the 2023 Asia Cup, co-hosted by Pakistan and Sri Lanka, is out with the tournament running from August 30 to September 17.",
+                        "og:title": "Asia Cup 2023 schedule announced",
+                        "og:description": "The schedule for the 2023 Asia Cup, co-hosted by Pakistan and Sri Lanka, is out with the tournament running from August 30 to September 17.",
+                        "twitter:image": "https://resources.pulse.icc-cricket.com/ICC/photo/2023/07/19/3aa7454f-4769-41e8-bc6b-3959375560a7/GettyImages-1244170369.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://resources.pulse.icc-cricket.com/ICC/photo/2023/07/19/3aa7454f-4769-41e8-bc6b-3959375560a7/GettyImages-1244170369.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "2023 Asia Cup - Wikipedia",
+            "htmlTitle": "2023 <b>Asia Cup</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/2023_Asia_Cup",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "India will play all its games in Sri Lanka.In January 2023, the Asian Cricket Council (ACC) announced the pathway structure ...",
+            "htmlSnippet": "India will play all its <b>games</b> in Sri Lanka.In January 2023, the Asian <b>Cricket</b> Council (ACC) announced the pathway structure&nbsp;...",
+            "cacheId": "tWiU1P1n9pkJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/2023_Asia_Cup",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2023_Asia_Cup",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/c/c7/2023_Asia_Cup_logo.png",
+                        "theme-color": "#eaecf0",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                        "og:title": "2023 Asia Cup - Wikipedia",
+                        "og:image:height": "729",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cricket Schedule - International matches | BCCI",
+            "htmlTitle": "<b>Cricket</b> Schedule - International <b>matches</b> | BCCI",
+            "link": "https://www.bcci.tv/international/fixtures",
+            "displayLink": "www.bcci.tv",
+            "snippet": "Live cricket matches and upcoming fixtures of all international cricket matches of India cricket team. ... ASIA CUP 2023. 2 SEP 2023. 12:30 am PDT. India.",
+            "htmlSnippet": "Live <b>cricket matches</b> and upcoming fixtures of all international <b>cricket matches</b> of India <b>cricket</b> team. ... <b>ASIA CUP</b> 2023. 2 SEP 2023. 12:30 am PDT. India.",
+            "cacheId": "3KGox5VgUFMJ",
+            "formattedUrl": "https://www.bcci.tv/international/fixtures",
+            "htmlFormattedUrl": "https://www.bcci.tv/international/fixtures",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJLaEuRTvds5tDS-Gpaj2IQar_7YLTiAs5abGZt2Oc8s5ajA4OsItgT-Q",
+                        "width": "261",
+                        "height": "193"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.bcci.tv/assets/images/BannerDesign-logo.jpeg",
+                        "twitter:title": "Cricket Schedule - International matches | BCCI",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "csrf-token": "uaJ1xTnhFfL1mH6qu23kS15kKrJo6QGEOl79cT1b",
+                        "og:title": "Cricket Schedule - International matches | BCCI",
+                        "og:url": "https://www.bcci.tv/international/fixtures",
+                        "og:description": "Live cricket matches and upcoming fixtures of all international cricket matches of India cricket team."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bcci.tv/assets/images/BannerDesign-logo.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Asian Cricket Council",
+            "htmlTitle": "Asian <b>Cricket</b> Council",
+            "link": "https://asiancricket.org/",
+            "displayLink": "asiancricket.org",
+            "snippet": "Asian Cricket Council.",
+            "htmlSnippet": "Asian <b>Cricket</b> Council.",
+            "cacheId": "XiUTylUuS40J",
+            "formattedUrl": "https://asiancricket.org/",
+            "htmlFormattedUrl": "https://asian<b>cricket</b>.org/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Asia Cup | 2022 Men's T20 Asia Cup | Live Score, Schedule, News",
+            "htmlTitle": "<b>Asia Cup</b> | 2022 Men&#39;s T20 <b>Asia Cup</b> | Live Score, Schedule, News",
+            "link": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237",
+            "displayLink": "www.espncricinfo.com",
+            "snippet": "Check Asia Cup live score 2022, squads, match schedules, Asia Cup points table, fixtures, updates, photos, and videos on ESPNcricinfo.",
+            "htmlSnippet": "Check <b>Asia Cup</b> live score 2022, squads, <b>match</b> schedules, <b>Asia Cup</b> points table, fixtures, updates, photos, and videos on ESPNcricinfo.",
+            "cacheId": "tiVAGHO2WBUJ",
+            "formattedUrl": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237",
+            "htmlFormattedUrl": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp-j1L9U7ZgLYGZJd7R_O4kgtXEGJLWULkfH95eyR-kL3gFNSaTGKxgVc",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.espncricinfo.com/static/images/espncricinfo-og.png",
+                        "twitter:app:id:googleplay": "com.july.cricinfo",
+                        "theme-color": "#03a9f4",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Asia Cup | 2022 Men's T20 Asia Cup | Live Score, Schedule, News",
+                        "og:site_name": "ESPNcricinfo",
+                        "apple-mobile-web-app-title": "ESPN Cricinfo",
+                        "og:title": "Asia Cup | 2022 Men's T20 Asia Cup | Live Score, Schedule, News",
+                        "twitter:app:name:googleplay": "ESPNcricinfo",
+                        "title": "Asia Cup | 2022 Men's T20 Asia Cup | Live Score, Schedule, News",
+                        "twitter:app:id:iphone": "417408017",
+                        "og:description": "Check Asia Cup live score 2022, squads, match schedules, Asia Cup points table, fixtures, updates, photos, and videos on ESPNcricinfo.",
+                        "fb:pages": "104266592953439",
+                        "twitter:image": "https://www.espncricinfo.com/static/images/espncricinfo-og.png",
+                        "next-head-count": "76",
+                        "fb:app_id": "260890547115",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@espncricinfo",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Check Asia Cup live score 2022, squads, match schedules, Asia Cup points table, fixtures, updates, photos, and videos on ESPNcricinfo.",
+                        "og:url": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237",
+                        "twitter:app:name:iphone": "ESPNcricinfo"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.espncricinfo.com/static/images/espncricinfo-og.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan whining continues, now demands more than 4 matches in ...",
+            "htmlTitle": "Pakistan whining continues, <b>now</b> demands more than 4 <b>matches</b> in ...",
+            "link": "https://www.livemint.com/sports/cricket-news/pakistan-whining-continues-now-demands-more-than-4-matches-in-asia-cup-2023-11689418031039.html",
+            "displayLink": "www.livemint.com",
+            "snippet": "Jul 15, 2023 ... Pakistan hosting the Asia Cup 2023 became a major issue as BCCI ... the Pakistan Cricket Board (PCB) is planning to seek more matches in ...",
+            "htmlSnippet": "Jul 15, 2023 <b>...</b> Pakistan hosting the <b>Asia Cup</b> 2023 became a major issue as BCCI ... the Pakistan <b>Cricket</b> Board (PCB) is planning to seek more <b>matches</b> in&nbsp;...",
+            "cacheId": "GDeR7Q2IaS4J",
+            "formattedUrl": "https://www.livemint.com/.../cricket.../pakistan-whining-continues-now- demands-more-than-4-matches-in-asia-cup-2023-11689418031039.html",
+            "htmlFormattedUrl": "https://www.livemint.com/.../<b>cricket</b>.../pakistan-whining-continues-now- demands-more-than-4-<b>match</b>es-in-asia-cup-2023-11689418031039.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ1qxDvgOQHbxQ-zzc6uWiBSJnSOI92Rhywjy7p36HlAF0Rt9y-gtrQwA",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.livemint.com/lm-img/img/2023/07/15/600x338/CRICKET-PAK-NZL-ODI-7_1689419098786_1689419183367.jpg",
+                        "theme-color": "#ffffff",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2023-07-15T16:50:10+05:30",
+                        "og:site_name": "mint",
+                        "twitter:url": "https://www.livemint.com/sports/cricket-news/pakistan-whining-continues-now-demands-more-than-4-matches-in-asia-cup-2023-11689418031039.html",
+                        "section": "Sports",
+                        "og:description": "Pakistan hosting the Asia Cup 2023 became a major issue as BCCI cleared that India will not send its team to Pakistan under any conditions",
+                        "twitter:creator": "@mint",
+                        "last-modified": "2023-07-15T16:50:10+05:30",
+                        "twitter:site": "@mint",
+                        "article:modified_time": "2023-07-15T16:50:10+05:30",
+                        "news_keywords": "ACC,India vs Pakistan,BCCI,Jay Shah,Asia Cricket Council,Asia Cup 2023,Pakistan Cricket Board,PCB,ICC World Cup 2023",
+                        "last-modified-date": "Sat, Jul 15, 2023",
+                        "storyid": "11689418031039",
+                        "og:type": "article",
+                        "twitter:title": "Pakistan whining continues, now demands more than 4 matches in Asia Cup 2023",
+                        "article:section": "Sports",
+                        "twitter:domain": "livemint.com",
+                        "cxenseparse:pageclass": "story",
+                        "og:title": "Pakistan whining continues, now demands more than 4 matches in Asia Cup 2023",
+                        "screen-name": "story",
+                        "tweetmeme-title": "Pakistan whining continues, now demands more than 4 matches in Asia Cup 2023",
+                        "fb:pages": "170844986298918",
+                        "twitter:image:src": "https://www.livemint.com/lm-img/img/2023/07/15/600x338/CRICKET-PAK-NZL-ODI-7_1689419098786_1689419183367.jpg",
+                        "referrer": "no-referrer-when-downgrade",
+                        "viewport": "width=device-width, user-scalable=yes",
+                        "twitter:description": "Pakistan hosting the Asia Cup 2023 became a major issue as BCCI cleared that India will not send its team to Pakistan under any conditions",
+                        "og:url": "https://www.livemint.com/sports/cricket-news/pakistan-whining-continues-now-demands-more-than-4-matches-in-asia-cup-2023-11689418031039.html",
+                        "last-modified-time": "2023-07-15T16:50:10+05:30",
+                        "google-signin-client_id": "59036276639-9ufea2catbasbmb6mmjn7kdsgpma6edn.apps.googleusercontent.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.livemint.com/lm-img/img/2023/07/15/600x338/CRICKET-PAK-NZL-ODI-7_1689419098786_1689419183367.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Asia Cup Schedule | 2022 Men's T20 Asia Cup Fixtures | ESPNcricinfo",
+            "htmlTitle": "<b>Asia Cup</b> Schedule | 2022 Men&#39;s T20 <b>Asia Cup</b> Fixtures | ESPNcricinfo",
+            "link": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237/match-schedule-fixtures-and-results",
+            "displayLink": "www.espncricinfo.com",
+            "snippet": "Get the 2022 Men's T20 Asia Cup schedule, fixtures, scorecard updates, and results on ESPNcricinfo. From the opening match to the grand finale, ...",
+            "htmlSnippet": "Get the 2022 Men&#39;s T20 <b>Asia Cup</b> schedule, fixtures, scorecard updates, and results on ESPNcricinfo. From the opening <b>match</b> to the grand finale,&nbsp;...",
+            "cacheId": "CfGKmRT1y6YJ",
+            "formattedUrl": "https://www.espncricinfo.com/...s.../match-schedule-fixtures-and-results",
+            "htmlFormattedUrl": "https://www.espncricinfo.com/...s.../<b>match</b>-schedule-fixtures-and-results",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp-j1L9U7ZgLYGZJd7R_O4kgtXEGJLWULkfH95eyR-kL3gFNSaTGKxgVc",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.espncricinfo.com/static/images/espncricinfo-og.png",
+                        "twitter:app:id:googleplay": "com.july.cricinfo",
+                        "theme-color": "#03a9f4",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Asia Cup Schedule | 2022 Men's T20 Asia Cup Fixtures | ESPNcricinfo",
+                        "og:site_name": "ESPNcricinfo",
+                        "apple-mobile-web-app-title": "ESPN Cricinfo",
+                        "og:title": "Asia Cup Schedule | 2022 Men's T20 Asia Cup Fixtures | ESPNcricinfo",
+                        "twitter:app:name:googleplay": "ESPNcricinfo",
+                        "title": "Asia Cup Schedule | 2022 Men's T20 Asia Cup Fixtures | ESPNcricinfo",
+                        "twitter:app:id:iphone": "417408017",
+                        "og:description": "Get the 2022 Men's T20 Asia Cup schedule, fixtures, scorecard updates, and results on ESPNcricinfo. From the opening match to the grand finale, track the latest scores, stats, and highlights of the Asia Cup.",
+                        "fb:pages": "104266592953439",
+                        "twitter:image": "https://www.espncricinfo.com/static/images/espncricinfo-og.png",
+                        "next-head-count": "75",
+                        "fb:app_id": "260890547115",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@espncricinfo",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Get the 2022 Men's T20 Asia Cup schedule, fixtures, scorecard updates, and results on ESPNcricinfo. From the opening match to the grand finale, track the latest scores, stats, and highlights of the Asia Cup.",
+                        "og:url": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2022-1327237/match-schedule-fixtures-and-results",
+                        "twitter:app:name:iphone": "ESPNcricinfo"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.espncricinfo.com/static/images/espncricinfo-og.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ACC set to move Asia Cup out of Pakistan after members reject ...",
+            "htmlTitle": "ACC set to move <b>Asia Cup</b> out of Pakistan after members reject ...",
+            "link": "https://www.thehindu.com/sport/cricket/asia-cup-to-be-moved-out-of-pakistan-sri-lanka-may-host-tournament/article66827054.ece",
+            "displayLink": "www.thehindu.com",
+            "snippet": "May 8, 2023 ... Sri Lanka's players celebrate with the trophy at the end of the Asia Cup Twenty20 international cricket final match against Pakistan in ...",
+            "htmlSnippet": "May 8, 2023 <b>...</b> Sri Lanka&#39;s players celebrate with the trophy at the end of the <b>Asia Cup</b> Twenty20 international <b>cricket</b> final <b>match</b> against Pakistan in&nbsp;...",
+            "cacheId": "Ssbwiss5aTMJ",
+            "formattedUrl": "https://www.thehindu.com/sport/cricket/asia.../article66827054.ece",
+            "htmlFormattedUrl": "https://www.thehindu.com/sport/<b>cricket</b>/asia.../article66827054.ece",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_mI1Hsp-JFesU4WcMxhLtxoMvLTDjfsAYwOVIgXzjDo1PXJpyQvGqeB3l",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "newsmediaorganization": [
+                    {
+                        "name": "The Hindu",
+                        "logo": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+                        "url": "https://www.thehindu.com/",
+                        "sameas": "https://www.facebook.com/thehindu"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "1200",
+                        "url": "https://th-i.thgim.com/public/sport/cricket/d0lssq/article66828383.ece/alternates/LANDSCAPE_1200/IMG_TH12NEW_LANKA_2_1_SVA90415.jpg",
+                        "height": "675"
+                    },
+                    {
+                        "width": "600",
+                        "url": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+                        "height": "60"
+                    },
+                    {
+                        "width": "278",
+                        "url": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+                        "height": "49"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "PTI"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Hindu",
+                        "url": "https://www.thehindu.com/"
+                    },
+                    {
+                        "name": "The Hindu",
+                        "logo": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+                        "url": "https://www.thehindu.com/",
+                        "sameas": "https://www.facebook.com/thehindu"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Chennai",
+                        "postalcode": "600002",
+                        "addressregion": "Tamil Nadu",
+                        "streetaddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+                        "telephone": "+91-44-2857 6300"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://th-i.thgim.com/public/sport/cricket/d0lssq/article66828383.ece/alternates/LANDSCAPE_1200/IMG_TH12NEW_LANKA_2_1_SVA90415.jpg",
+                        "twitter:app:id:googleplay": "com.mobstac.thehindu",
+                        "article:published_time": "2023-05-08T13:31:17.000Z",
+                        "twitter:card": "summary_large_image",
+                        "twitter:apple-itunes-app": "app-id=584786636",
+                        "al:android:package": "com.mobstac.thehindu",
+                        "og:image:type": "image/jpeg",
+                        "twitter:app:name:googleplay": "The Hindu (Official App)",
+                        "title": "ACC set to move Asia Cup out of Pakistan after members reject PCB’s hybrid model; Sri Lanka may host tournament",
+                        "twitter:app:id:iphone": "771672321",
+                        "twitter:creator": "PTI",
+                        "og:description": "In a huge setback to Pakistan, the Asian Cricket Council (ACC) on May 8 decided to move the Asia Cup out of the country after PCB’s proposal to host the tournament on a ‘hybrid model’ was rejected by the member nations.",
+                        "twitter:image": "https://th-i.thgim.com/public/sport/cricket/d0lssq/article66828383.ece/alternates/LANDSCAPE_1200/IMG_TH12NEW_LANKA_2_1_SVA90415.jpg",
+                        "publish-date": "2023-05-08T19:01:17+05:30",
+                        "ahrefs-site-verification": "6df5b97abf2ea60f2d4123265496b92b4faa009ceff5444e0b8482ebddd508d6",
+                        "twitter:site": "@The_Hindu",
+                        "article:modified_time": "2023-05-09T03:38:14Z",
+                        "news_keywords": "Sri Lanka Cricket,Bangladesh Cricket Board,BCCI,Asia Cup ,Asia Cup 2023 ,Asia Cup 2023 venue,Asia Cup 2023 Pakistan",
+                        "cxenseparse:thg-articleid": "66827054",
+                        "twitter:google-play-app": "app-id=com.mobstac.thehindu",
+                        "article:section": "Cricket",
+                        "twitter:title": "ACC set to move Asia Cup out of Pakistan after members reject PCB’s hybrid model; Sri Lanka may host tournament",
+                        "og:type": "article",
+                        "twitter:domain": "thehindu.com",
+                        "og:title": "ACC set to move Asia Cup out of Pakistan after members reject PCB’s hybrid model; Sri Lanka may host tournament",
+                        "msvalidate:01": "00762243DAFA333A5A6D97CE4545BDB2",
+                        "yandex-verification": "ff4648e5089d361d",
+                        "fb:pages": "163974433696568",
+                        "created-date": "2023-05-08T19:01:17+05:30",
+                        "article:author": "PTI",
+                        "article:tag": "Sri Lanka Cricket",
+                        "al:android:url": "https://www.thehindu.com/sport/cricket/asia-cup-to-be-moved-out-of-pakistan-sri-lanka-may-host-tournament/article66827054.ece",
+                        "fb:app_id": "137450626398044",
+                        "twitter:app:name:ipad": "The Hindu",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "cxenseparse:articleid": "66827054",
+                        "twitter:description": "In a huge setback to Pakistan, the Asian Cricket Council (ACC) on May 8 decided to move the Asia Cup out of the country after PCB’s proposal to host the tournament on a ‘hybrid model’ was rejected by the member nations.",
+                        "modified-date": "2023-05-09T09:08:14+05:30",
+                        "atdlayout": "articlepage",
+                        "og:url": "https://www.thehindu.com/sport/cricket/asia-cup-to-be-moved-out-of-pakistan-sri-lanka-may-host-tournament/article66827054.ece",
+                        "google-signin-client_id": "853251516072-1eudfpp9hhjtjp31fpm8g9fus3ig0ec3.apps.googleusercontent.com",
+                        "twitter:app:name:iphone": "The Hindu for iPhone",
+                        "al:android:app_name": "The Hindu"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "url": "https://www.thehindu.com/sport/cricket/asia-cup-to-be-moved-out-of-pakistan-sri-lanka-may-host-tournament/article66827054.ece"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "productid": "thehindu.com:showcase",
+                        "name": "The Hindu"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://th-i.thgim.com/public/sport/cricket/d0lssq/article66828383.ece/alternates/LANDSCAPE_1200/IMG_TH12NEW_LANKA_2_1_SVA90415.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "In a huge setback to Pakistan, the Asian Cricket Council (ACC) on May 8 decided to move the Asia Cup out of the country after PCB’s proposal to host the tournament on a ‘hybrid model’...",
+                        "datemodified": "2023-05-09T09:08:14+05:30",
+                        "keywords": "Sri Lanka Cricket,Bangladesh Cricket Board,BCCI,Asia Cup ,Asia Cup 2023 ,Asia Cup 2023 venue,Asia Cup 2023 Pakistan",
+                        "articlesection": "Cricket",
+                        "isaccessibleforfree": "false",
+                        "name": "ACC set to move Asia Cup out of Pakistan after members reject PCB’s hybrid model; Sri Lanka may host tournament",
+                        "description": "In a huge setback to Pakistan, the Asian Cricket Council (ACC) on May 8 decided to move the Asia Cup out of the country after PCB’s proposal to host the tournament on a ‘hybrid model’...",
+                        "headline": "ACC set to move Asia Cup out of Pakistan after members reject PCB’s hybrid model; Sri Lanka may host tournament",
+                        "datepublished": "2023-05-08T19:01:17+05:30",
+                        "url": "https://www.thehindu.com/sport/cricket/asia-cup-to-be-moved-out-of-pakistan-sri-lanka-may-host-tournament/article66827054.ece"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Sport",
+                        "name": "Sport",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Cricket",
+                        "name": "Cricket",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and ...",
+            "htmlTitle": "Pakistan vs Nepal <b>Asia Cup</b> 2023 Live streaming info: When and ...",
+            "link": "https://sportstar.thehindu.com/cricket/pakistan-vs-nepal-asia-cup-2023-live-streaming-info-tv-channel-match-time-today/article67249494.ece",
+            "displayLink": "sportstar.thehindu.com",
+            "snippet": "7 hours ago ... What time will the PAK vs NEP Asia Cup match start? More on Cricket ... Where can I watch the PAK vs NEP match today? The Pakistan vs Nepal ...",
+            "htmlSnippet": "7 hours ago <b>...</b> What time will the PAK vs NEP <b>Asia Cup match</b> start? More on <b>Cricket</b> ... Where can I watch the PAK vs NEP <b>match today</b>? The Pakistan vs Nepal&nbsp;...",
+            "cacheId": "Oh_FL0aTC-MJ",
+            "formattedUrl": "https://sportstar.thehindu.com/cricket/...match...today/article67249494.ece",
+            "htmlFormattedUrl": "https://sportstar.thehindu.com/<b>cricket</b>/...<b>match</b>...<b>today</b>/article67249494.ece",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvItuKXw2dtNFamBVVmubGaphmEiMTIjXki8cZ3eTCc6KAads4JoSIcSI",
+                        "width": "150",
+                        "height": "84"
+                    }
+                ],
+                "newsmediaorganization": [
+                    {
+                        "name": "Sportstar",
+                        "logo": "https://sportstar.thehindu.com/theme/images/ss-online/ssnewlogo.png",
+                        "url": "https://sportstar.thehindu.com/",
+                        "sameas": "https://www.facebook.com/sportstarweb"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "1200",
+                        "url": "https://ss-i.thgim.com/public/incoming/5ons2u/article67249502.ece/alternates/LANDSCAPE_1200/AP08_26_2023_000293A.jpg",
+                        "height": "675"
+                    },
+                    {
+                        "width": "600",
+                        "url": "https://sportstar.thehindu.com/theme/images/ss-online/ssnewlogo.png",
+                        "height": "60"
+                    },
+                    {
+                        "width": "278",
+                        "url": "https://sportstar.thehindu.com/theme/images/ss-online/ssnewlogo.png",
+                        "height": "49"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Team Sportstar",
+                        "url": "https://sportstar.thehindu.com/profile/author/Team-Sportstar-12352/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Sportstar",
+                        "url": "https://sportstar.thehindu.com/"
+                    },
+                    {
+                        "name": "Sportstar",
+                        "logo": "https://sportstar.thehindu.com/theme/images/ss-online/ssnewlogo.png",
+                        "url": "https://sportstar.thehindu.com/",
+                        "sameas": "https://www.facebook.com/sportstarweb"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Chennai",
+                        "postalcode": "600002",
+                        "addressregion": "Tamil Nadu",
+                        "streetaddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+                        "telephone": "+91-44-2857 6300"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ss-i.thgim.com/public/incoming/5ons2u/article67249502.ece/alternates/LANDSCAPE_1200/AP08_26_2023_000293A.jpg",
+                        "article:published_time": "2023-08-30T01:35:06.000Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Sportstar",
+                        "og:image:type": "image/jpeg",
+                        "title": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and where to watch match today?",
+                        "twitter:creator": "Team Sportstar",
+                        "og:description": "PAK vs NEP Asia Cup: Here is how you can watch the Pakistan vs Nepal match that will be played at the Multan Cricket Stadium, Multan on Wednesday.",
+                        "twitter:image": "https://ss-i.thgim.com/public/incoming/5ons2u/article67249502.ece/alternates/LANDSCAPE_1200/AP08_26_2023_000293A.jpg",
+                        "publish-date": "2023-08-30T07:05:06+05:30",
+                        "ahrefs-site-verification": "6df5b97abf2ea60f2d4123265496b92b4faa009ceff5444e0b8482ebddd508d6",
+                        "twitter:site": "@sportstarweb",
+                        "article:modified_time": "2023-08-30T01:35:48Z",
+                        "news_keywords": "pak v nepal, pak v nep, pak nep, pakistan vs nepal, pak vs nepal live, pak vs nep live streaming, asia cup live streaming, asia cup live, pak nep streaming, asia cup streaming, pak vs nepal where to watch, pak nepal asia cup, pak vs nepal when to watch, cricket live streaming, pak nepal live",
+                        "cxenseparse:thg-articleid": "67249494",
+                        "article:section": "Cricket",
+                        "twitter:title": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and where to watch match today?",
+                        "og:type": "article",
+                        "twitter:domain": "Sportstar",
+                        "og:title": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and where to watch match today?",
+                        "msvalidate:01": "00762243DAFA333A5A6D97CE4545BDB2",
+                        "yandex-verification": "0680678719efd257",
+                        "fb:pages": "1480161095619317",
+                        "created-date": "2023-08-30T07:05:06+05:30",
+                        "article:author": "Team Sportstar",
+                        "article:tag": "pak v nepal, pak v nep, pak nep, pakistan vs nepal, pak vs nepal live, pak vs nep live streaming, asia cup live streaming, asia cup live, pak nep streaming, asia cup streaming, pak vs nepal where to watch, pak nepal asia cup, pak vs nepal when to watch, cricket live streaming, pak nepal live",
+                        "al:android:url": "https://sportstar.thehindu.com/cricket/pakistan-vs-nepal-asia-cup-2023-live-streaming-info-tv-channel-match-time-today/article67249494.ece",
+                        "fb:app_id": "1632119503728892",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "cxenseparse:articleid": "67249494",
+                        "twitter:description": "PAK vs NEP Asia Cup: Here is how you can watch the Pakistan vs Nepal match that will be played at the Multan Cricket Stadium, Multan on Wednesday.",
+                        "modified-date": "2023-08-30T07:05:48+05:30",
+                        "atdlayout": "articlepage",
+                        "og:url": "https://sportstar.thehindu.com/cricket/pakistan-vs-nepal-asia-cup-2023-live-streaming-info-tv-channel-match-time-today/article67249494.ece"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-nepal-asia-cup-2023-live-streaming-info-tv-channel-match-time-today/article67249494.ece"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "name": "Sportstar"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ss-i.thgim.com/public/incoming/5ons2u/article67249502.ece/alternates/LANDSCAPE_1200/AP08_26_2023_000293A.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "Hosts Pakistan will take on debutants Nepal in the first match of the Asia Cup 2023 to be played at Multan Cricket Stadium, Multan on Wednesday. Pakistan has recently become the number one...",
+                        "datemodified": "2023-08-30T07:05:48+05:30",
+                        "keywords": "pak v nepal, pak v nep, pak nep, pakistan vs nepal, pak vs nepal live, pak vs nep live streaming, asia cup live streaming, asia cup live, pak nep streaming, asia cup streaming, pak vs nepal...",
+                        "articlesection": "Cricket",
+                        "isaccessibleforfree": "true",
+                        "name": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and where to watch match today?",
+                        "description": "PAK vs NEP Asia Cup: Here is how you can watch the Pakistan vs Nepal match that will be played at the Multan Cricket Stadium, Multan on Wednesday.",
+                        "headline": "Pakistan vs Nepal Asia Cup 2023 Live streaming info: When and where to watch match today?",
+                        "datepublished": "2023-08-30T07:05:06+05:30",
+                        "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-nepal-asia-cup-2023-live-streaming-info-tv-channel-match-time-today/article67249494.ece"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Cricket",
+                        "name": "Cricket",
+                        "position": "2"
+                    }
+                ]
+            }
+        }
+    ]
+}
