@@ -694,5 +694,52 @@ subString() => make the slice og given string
 toString() => convert any type objcet to string 
 valueOf() => for print the given string 
 
+javaScript Number Methods:
+
+number()
+parseInt()
+parseFloat()
+isFinite()
+isInteger()
+toFixed()
+toPrecision()
+
+// javascript Math Methods
+
+ceil(x);
+floor(x);
+round(x);
+trunc(x);
+max(x,y,z,...,n);
+min(x,y,z,...,n);
+sqrt(x);
+cbrt(x);
+pow(x,y);
+random();
+abs(x);
+PI
+
+// JavaScript Math Methods
+toDateString();
+getDate();
+getFullYear();
+getMonth();
+getDay();
+getHours();
+getMinutes();
+getSeconds();
+getMilliseconds();
+setDate();
+setFullYear();
+setHours();
+setMilliseconds();
+setMinutes();
+setMonth();
+setSeconds();
+
+
+// create the date object 
+var now = new Date();
+
 
 
